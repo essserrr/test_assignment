@@ -1,0 +1,8 @@
+{
+  "extends": "@gearbox-protocol/stylelint-config",
+  "rules": {
+    "keyframes-name-pattern": null,
+    "rule-empty-line-before": null,
+    "keyframe-block-no-duplicate-selectors": null
+  }
+}

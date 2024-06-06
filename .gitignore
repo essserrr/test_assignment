@@ -1,0 +1,7 @@
+.husky
+.next
+node_modules
+dist
+dist-ssr
+out
+tsconfig.tsbuildinfo
